@@ -1,0 +1,27 @@
+Portuguese
+Pleasant Polar Attribute Words: carícia, liberdade, saúde, amor, diploma, paz, prazer, alegrar, amigo, céu, leal, diamante, gentil, honesto, sortudo, arco-íris, prenda, honra, milagre, amanhecer, família, feliz, riso, paraíso, férias
+Unpleasant Polar Attribute Words: maus-tratos, colisão, imundíce, assassinato, enfermidade, acidente, morte, tristeza, veneno, fedor, assalto, desastre, ódio, tragédia, poluir, divórcio, cadeia, pobreza, feio, cancro, matar, divórcio, cadeia, pobreza, feio, cancro, matar, podre, vómito, agonia, prisão
+
+Chinese
+Pleasant Polar Attribute Words: 抚摸, 自由, 健康, 爱, 和平, 欢呼, 朋友, 天堂, 忠诚, 乐趣, 钻石, 温和, 诚实, 幸运, 彩虹, 文凭
+Unpleasant Polar Attribute Words: 滥用, 崩溃, 污秽, 谋杀, 疾病, 事故, 死亡, 悲痛, 毒, 臭, 突击, 灾害, 仇恨, 污染, 悲剧, 离婚, 监狱, 贫穷, 丑陋, 癌症, 杀, 烂, 呕吐, 痛苦, 监狱
+
+Spanish
+Pleasant Polar Attribute Words: caricia, libertad, salud, amor, diploma, paz, placer, ánimo, amigo, cielo, leal, diamante, delicado, honesto, afortunado, arco-iris, obsequio, honor, milagro, amanecer, familia, feliz
+Unpleasant Polar Attribute Words: maltrato, choque, inmundicia, asesinato, enfermedad, accidente, muerte, pena, ponzoña, hedor, asalto, desastre, odio, contaminar, tragedia, divorcio, cárcel, pobreza, feo, cáncer, matar, podrido, vómito, agonía, prisión
+
+French
+Pleasant Polar Attribute Words: caresse, liberté, santé, amour, paix, joie, ami, ciel, loyal, plaisir, diamant, doux, honnête, chanceux, arc en ciel, diplôme, cadeau, honneur, miracle, lever du soleil, famille, heureux, rire, paradis, vacances
+Unpleasant Polar Attribute Words: abus, crash, saleté, meurtre, maladie, accident, mort, chagrin, poison, puanteur, agression, catastrophe, haine, polluer, tragédie, divorce, prison, pauvreté, laid, cancer, tuer, pourri, vomir, agonie, prison
+
+Polish
+Pleasant Polar Attribute Words: pieszczota, swoboda, zdrowie, miłość, dyplom, pokój, przyjemność, dopingować, przyjaciel, niebiosa, wierny, diament, delikatny, uczciwy, fartowny, tęcza, podarunek, honor, cud, rodzina, szczęśliwy, śmiech, raj, wakacje, świt
+Unpleasant Polar Attribute Words: nadużycie, wypadek, brud, zabójstwo, choroba, awaria, śmierć, smutek, trucizna, smród, atak, katastrofa, nienawiść, zanieczyszczać, tragedia, rozwód, więzienie, bieda, brzydki, rak, zgniły, wymiociny, agonia, areszt, zło
+
+Turkish
+Pleasant Polar Attribute Words: okşamak, özgürlük, sağlık, sevgi, barış, neşe, arkadaş, sadık, keyif, pırlanta, kibar, dürüst, şanslı, gökkuşağı, hediye, onur, mucize, gündoğumu, aile, mutlu, kahkaha, cennet, tatil
+Unpleasant Polar Attribute Words: istismar, çarpmak, pislik, cinayet, hastalık, ölüm , üzüntü, zehir, kokuşmuş, saldırı, felaket, nefret, kirletmek, facia, boşanmak, hapishane, fakirlik, çirkin, kanser, öldürmek, çürümüş, kusmuk, ızdırap, sancı, cezaevi
+
+English
+Pleasant Polar Attribute Words: caress, freedom, health, love, peace, cheer, friend, heaven, loyal, pleasure, diamond, gentle, honest, lucky, rainbow, diploma, gift, honor, miracle, sunrise, family, happy, laughter, paradise, vacation
+Unpleasant Polar Attribute Words: abuse, crash, filth, murder, sickness, accident, death, grief, poison, stink, assault, disaster, hatred, pollute, tragedy, divorce, jail, poverty, ugly, cancer, kill, rotten, vomit, agony, prison
